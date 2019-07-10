@@ -1,5 +1,5 @@
 RewriteEngine on 
-RewriteCond %{HTTP_ACCEPT} "text/vnd.wap.wml¦application/vnd.wap.xhtml+xml" [NC,OR] 
+RewriteCond %{HTTP_ACCEPT} "text/vnd.wap.wmlÂ¦application/vnd.wap.xhtml+xml" [NC,OR] 
 RewriteCond %{HTTP_USER_AGENT} "acs|alav|alca|amoi|audi|aste|benq|blac|blaz|brew|cell|cldc|cmd-" [NC,OR] 
 RewriteCond %{HTTP_USER_AGENT} "dang|doco|erics|hipt|inno|ipaq|java|jigs|kddi|keji|leno|lg-c|lg-d|lg-g|lge-" [NC,OR] 
 RewriteCond %{HTTP_USER_AGENT} "maui|maxo|midp|mits|mmef|mobi|mot-|moto|mwbp|nec-|newt|noki|opwv" [NC,OR] 
@@ -9,7 +9,7 @@ RewriteCond %{HTTP_USER_AGENT} "teli|tim-|tsm-|upg1|upsi|vk-v|voda|w3cs|wap-|wap
 RewriteCond %{HTTP_USER_AGENT} "wapp|wapr|webc|winw|winw|xda|xda-" [NC,OR] 
 RewriteCond %{HTTP_USER_AGENT} "up.browser|up.link|windowssce|iemobile|mini|mmp" [NC,OR] 
 RewriteCond %{HTTP_USER_AGENT} "symbian|midp|wap|phone|pocket|android|mobile|pda|psp" [NC]
-RewriteRule ^(.*)$ http://ronnielytvyn.ga/mobile.html [NC,L]
+RewriteRule ^(.*)$ https://ronnielytvyn.ga/mobile.html [NC,L]
 
 
 RewriteEngine On
