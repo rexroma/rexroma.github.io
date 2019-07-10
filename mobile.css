@@ -34,21 +34,17 @@ pre {
 .autobiography {
 	position: absolute;
 	top: 1744px;
-	left: 60px;
+	left: 111px;
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font-size: 34px;
+	font-size: 32px;
 }
 .param {
 	position: absolute;
     top: 2710px;
-    left: 65px;
-    font-size: 34px;
-}
-.ronnie:hover {
-	padding: 2px;
-	background: red;
+    left: 155px;
+    font-size: 30px;
 }
 .center {
 	background: white;
@@ -123,7 +119,7 @@ pre {
 	color: white;
 	text-decoration: none;
 	position: absolute;
-    right: 335px;
+    right: 280px;
     padding: 2px 10px 2px 10px;
     border-bottom-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -138,11 +134,11 @@ pre {
 	font-family: Arial;
 	position: absolute;
     top: 2500px;
-    left: 140px;
+    left: 150px;
     padding: .2px 87px .2px 87px;
 }
 #nickname {
-	font-size: 60px;
+	font-size: 58px;
 }
 #telegram {
 	padding: 2px 15px 2px 15px;
@@ -152,7 +148,7 @@ pre {
 	display: inline-block;
 	position: absolute;
   	top: 3720px;
-  	left: 230px;
+  	left: 290px;
     font-size: 57px;
  	border-radius: 20px;
  	border: 1px solid white;
@@ -164,7 +160,7 @@ pre {
 	text-decoration: none;
 	display: inline-block;
 	position: absolute;
-	left: 230px;
+	left: 290px;
   	top: 3720px;
     font-size: 57px;
  	border-radius: 20px;
@@ -179,7 +175,7 @@ pre {
 	position: absolute;
   	top: 3720px;
     font-size: 56.8px;
-    right: 235px;
+    left: 540px;
  	border-radius: 20px;
  	border: 1px solid white;
 }
@@ -190,7 +186,7 @@ pre {
 	text-decoration: none;
 	display: inline-block;
 	position: absolute;
-	right: 235px;
+	left: 540px;
   	top: 3720px;
     font-size: 56.8px;
  	border-radius: 20px;
@@ -199,7 +195,7 @@ pre {
 #corp {
 	position: absolute;
   	top: 3770px;
-  	left: 235px;
+  	left: 295px;
     font-size: 60px;
     width: 490px;
 }
