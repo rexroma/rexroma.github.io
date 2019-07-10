@@ -114,7 +114,7 @@ pre {
     left: 328px;
     padding: .2px 87px .2px 87px;
 }
-#btnGallery {
+#btnGallery { 
 	background: darkorange; 
 	font-family: 'Arial';
 	color: white;
