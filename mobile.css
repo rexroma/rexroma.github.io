@@ -34,11 +34,11 @@ pre {
 .autobiography {
 	position: absolute;
 	top: 1744px;
-	left: 5px;
+	left: 25px;
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font-size: 32px;
+	font-size: 25px;
 }
 .param {
 	position: absolute;
