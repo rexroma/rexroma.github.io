@@ -23,3 +23,10 @@ window.addEventListener("keydown", function(event) {
     }
 
   });
+
+return false;
+}
+
+if(isMobile() === true) {
+    window.location  = 'https://ronnielytvyn.ga/mobile.html';
+}
