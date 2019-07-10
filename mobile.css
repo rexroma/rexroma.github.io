@@ -34,16 +34,18 @@ pre {
 .autobiography {
 	position: absolute;
 	top: 1744px;
-	left: 25px;
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font-size: 25px;
+	width: 80%;
+	left: 10%;
+	font-size: 30px;
 }
 .param {
 	position: absolute;
     top: 2710px;
-    left: 155px;
+    width: 72%;
+    left: 15%;
     font-size: 30px;
 }
 .center {
@@ -58,7 +60,7 @@ pre {
     border-top: transparent;
     padding: 2px 7px 2px 7px;
     z-index: 999;
-    width: 1045px;
+    width: 950px;
     height: 70px;
     font-size: 60px;
 }
@@ -100,7 +102,7 @@ pre {
 	position: absolute;
 	width: 85%;
 	top: 330px;
-    left: 103px;
+    left: 6%;
     border: 15px ridge gold;
 }
 #labelAutobiography {
@@ -110,7 +112,7 @@ pre {
 	font-size: 100px;
 	position: absolute;
     top: 1500px;
-    left: 90px;
+    left: 4.7%;
     padding: .2px 87px .2px 87px;
 }
 #btnGallery {
@@ -119,7 +121,7 @@ pre {
 	color: white;
 	text-decoration: none;
 	position: absolute;
-    right: 260px;
+    right: 32.5%;
     padding: 2px 10px 2px 10px;
     border-bottom-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -134,7 +136,7 @@ pre {
 	font-family: Arial;
 	position: absolute;
     top: 2500px;
-    left: 150px;
+    left: 7.3%;
     padding: .2px 87px .2px 87px;
 }
 #nickname {
@@ -148,7 +150,7 @@ pre {
 	display: inline-block;
 	position: absolute;
   	top: 3750px;
-  	left: 310px;
+  	left: 25%;
     font-size: 57px;
  	border-radius: 20px;
  	border: 1px solid white;
@@ -160,7 +162,6 @@ pre {
 	text-decoration: none;
 	display: inline-block;
 	position: absolute;
-	left: 310px;
   	top: 3750px;
     font-size: 57px;
  	border-radius: 20px;
@@ -175,7 +176,7 @@ pre {
 	position: absolute;
   	top: 3750px;
     font-size: 56.8px;
-    left: 560px;
+    left: 51%;
  	border-radius: 20px;
  	border: 1px solid white;
 }
@@ -186,7 +187,6 @@ pre {
 	text-decoration: none;
 	display: inline-block;
 	position: absolute;
-	left: 560px;
   	top: 3750px;
     font-size: 56.8px;
  	border-radius: 20px;
@@ -195,7 +195,7 @@ pre {
 #corp {
 	position: absolute;
   	top: 3770px;
-  	left: 315px;
+  	left: 25.5%;
     font-size: 60px;
     width: 490px;
 }
