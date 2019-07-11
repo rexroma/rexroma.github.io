@@ -1,2 +1,2 @@
-RewriteCond "%{REQUEST_URI}" "\/index\.html$"
-RewriteRule ^(.*\/)index.html$ $1 [L]
+RewriteEngine On
+RewriteRule ^index.html$ / [QSA,R]
