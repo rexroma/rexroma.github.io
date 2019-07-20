@@ -9,5 +9,5 @@ return false;
 }
 
 if(isMobile() === true) {
-    window.location  = 'https://ronnielytvyn.ga/galleryMobile.html';
+    window.location  = 'https://ronnielytvyn.ga/mobile.html';
 }
