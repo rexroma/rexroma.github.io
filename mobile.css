@@ -212,6 +212,11 @@ pre {
   	left: 25.5%;
     font-size: 60px;
     width: 490px;
+    overflow-wrap: normal;  /* не поддерживает IE, Firefox; является копией word-wrap */ 
+    word-wrap: normal;
+    word-break: normal;  /* не поддерживает Opera12.14, значение keep-all не поддерживается IE, Chrome */ 
+    line-break: auto;  /* нет поддержки для русского языка */ 
+    hyphens: manual; 
 }
 #boysboys {
 	color: black;
