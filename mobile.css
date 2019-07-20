@@ -211,7 +211,7 @@ pre {
   	top: 4570px;
   	left: 25.5%;
     font-size: 60px;
-    width: 490px;
+    width: 100%;
     overflow-wrap: normal;  /* не поддерживает IE, Firefox; является копией word-wrap */ 
     word-wrap: normal;
     word-break: normal;  /* не поддерживает Opera12.14, значение keep-all не поддерживается IE, Chrome */ 
