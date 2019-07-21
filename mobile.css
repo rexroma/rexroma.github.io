@@ -237,9 +237,6 @@ pre {
     background-attachment: fixed;
 }
 body {
-  /* Location of the image */
-  background-image: url(background_mobile.png);
-  
   /* Image is centered vertically and horizontally at all times */
   background-position: top center;
   
