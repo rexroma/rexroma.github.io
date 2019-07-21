@@ -356,29 +356,29 @@ body {
 }
 #telegram {
 	position: fixed;
-  	left: 38%;
+  	left: 39%;
  	top: 500px;
 }
 #telegram:visited {
 	position: fixed;
-  	left: 38%;
+  	left: 39%;
 	top: 500px;
 }
 #instagram {
 	position: fixed;
-  	right: 38%;
+  	right: 20%;
  	top: 500px;
  	width: 70px;
 }
 #instagram:visited {
 	position: fixed;
-  	right: 38%;
+  	right: 20%;
  	top: 500px;
- 	width: 65px;
+ 	width: 70px;
 }
 #corp {
 	position: fixed;
-  	left: 41%;
+  	left: 43%;
  	top: 525px;
 }
 #corp1 {
