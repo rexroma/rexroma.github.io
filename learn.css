@@ -314,8 +314,9 @@ body {
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 1024px) {
+	background-image: url(background_mobile.png);
 	.center {
-		left: 35%;
+		left: 38%;
 	}
     pre  {
         width: 250px;
@@ -347,39 +348,39 @@ body {
 	position: absolute;
 	width: 23%;
 	top: 130px;
-    left: 360px;
+    left: 370px;
     border: 5px ridge gold;
 }
 #btnGallery {
     right: 45%;
-    top: 450px;
+    top: 460px;
 }
 #telegram {
 	position: fixed;
   	left: 39%;
- 	top: 500px;
+ 	top: 510px;
 }
 #telegram:visited {
 	position: fixed;
   	left: 39%;
-	top: 500px;
+	top: 510px;
 }
 #instagram {
 	position: fixed;
   	right: 20%;
- 	top: 500px;
+ 	top: 510px;
  	width: 70px;
 }
 #instagram:visited {
 	position: fixed;
   	right: 20%;
- 	top: 500px;
+ 	top: 510px;
  	width: 70px;
 }
 #corp {
 	position: fixed;
   	left: 43%;
- 	top: 525px;
+ 	top: 535px;
 }
 #corp1 {
  	top: 3200px;
