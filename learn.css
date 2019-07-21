@@ -347,19 +347,11 @@ body {
 	position: absolute;
 	width: 23%;
 	top: 130px;
-    left: 285px;
+    left: 360px;
     border: 5px ridge gold;
 }
 #btnGallery {
-	background: darkorange; 
-	font-family: 'Arial';
-	color: white;
-	text-decoration: none;
-	position: absolute;
-    right: 43.5%;
-    padding: 2px 10px 2px 10px;
-    border-bottom-left-radius: 20px;
-    border-top-right-radius: 20px;
+    right: 45%;
     top: 450px;
 }
 #telegram {
@@ -376,7 +368,7 @@ body {
 	position: fixed;
   	right: 38%;
  	top: 500px;
- 	width: 65px;
+ 	width: 70px;
 }
 #instagram:visited {
 	position: fixed;
