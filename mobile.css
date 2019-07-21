@@ -13,6 +13,12 @@ h1 {
     font-size: 75px;
     left: 9.5%;
     position: fixed;
+
+    color: white;
+  background: darkorange;
+  text-align: center;
+  padding: 4px;
+  z-index: 998;
 }
 #titleGallery {
 	width: 80%;
