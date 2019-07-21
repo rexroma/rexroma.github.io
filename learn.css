@@ -106,7 +106,7 @@ pre {
 	line-height: .8;
 }
 #mainImg {
-	position: fixed;
+	position: absolute;
 	width: 25%;
 	top: 130px;
     left: 473px;
@@ -307,4 +307,91 @@ body {
 
 @media screen and (min-width: 768px) and (max-width: 959px) {
 @-ms-viewport { width: 768px; }
+}
+
+
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.center {
+		left: 35%;
+	}
+    pre  {
+        width: 250px;
+        font-size: 10px;
+    }
+    .autobiography {
+    	top: 180px;
+    	left: 2%;
+    }
+    #labelAutobiography {
+    	left: 2%;
+    	width: 85px;
+    	font-size: 13px;
+    }
+    #identification {
+    	right: 2%;
+    	width: 85px;
+    	font-size: 13px;
+    }
+    .param {
+    	width: 220px;
+    	top: 160px;
+    	right: 4.5%;
+    }
+    #nickname {
+    	font-size: 16px;
+    }
+    #mainImg {
+	position: absolute;
+	width: 23%;
+	top: 130px;
+    left: 285px;
+    border: 5px ridge gold;
+}
+#btnGallery {
+	background: darkorange; 
+	font-family: 'Arial';
+	color: white;
+	text-decoration: none;
+	position: absolute;
+    right: 43.5%;
+    padding: 2px 10px 2px 10px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    top: 450px;
+}
+#telegram {
+	position: fixed;
+  	left: 38%;
+ 	top: 500px;
+}
+#telegram:visited {
+	position: fixed;
+  	left: 38%;
+	top: 500px;
+}
+#instagram {
+	position: fixed;
+  	right: 38%;
+ 	top: 500px;
+ 	width: 65px;
+}
+#instagram:visited {
+	position: fixed;
+  	right: 38%;
+ 	top: 500px;
+ 	width: 65px;
+}
+#corp {
+	position: fixed;
+  	left: 41%;
+ 	top: 525px;
+}
+#corp1 {
+ 	top: 3200px;
+}
+#toTop {
+visibility: hidden;
 }
