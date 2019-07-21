@@ -314,9 +314,13 @@ body {
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 1024px) {
-	background-image: url(background_mobile.png);
+	body {
+    /* The file size of this background image is 93% smaller
+     * to improve page load speed on mobile internet connections */
+    background-image: url(background_mobile.png);
+  }
 	.center {
-		left: 38%;
+		left: 36.5%;
 	}
     pre  {
         width: 250px;
@@ -348,7 +352,7 @@ body {
 	position: absolute;
 	width: 23%;
 	top: 130px;
-    left: 370px;
+    left: 380px;
     border: 5px ridge gold;
 }
 #btnGallery {
