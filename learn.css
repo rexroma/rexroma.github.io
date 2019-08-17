@@ -160,7 +160,7 @@ pre {
  	border: 1px solid darkorange;
  	margin-right: 100px;
  	bottom: 2px;
- 	left: 2px;
+ 	right: 2px;
 }
 #telegram:visited {
 	padding: 2px 8px 3px 2px;
@@ -172,7 +172,7 @@ pre {
  	border: 1px solid darkorange;
  	margin-right: 100px;
  	bottom: 2px;
- 	left: 2px;
+ 	right: 2px;
 }
 #instagram {
 	padding: 2px 8px 2px 8px;
@@ -184,7 +184,7 @@ pre {
  	border: 1px solid darkorange;
  	margin-left: 100px;
  	bottom: 2px;
- 	right: 2px;
+ 	left: 2px;
 }
 #instagram:visited {
 	padding: 2px 8px 2px 8px;
@@ -196,7 +196,7 @@ pre {
  	border: 1px solid darkorange;
  	margin-left: 100px;
  	bottom: 2px;
- 	right: 2px;
+ 	left: 2px;
 }
 #titleGallery {
 	color: white;
