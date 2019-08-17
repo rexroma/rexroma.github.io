@@ -20,6 +20,10 @@ h1 {
   padding: 4px;
   z-index: 998;
 }
+.title {
+  width: 100%;
+    font-size: 72px;
+}
 #titleGallery {
 	width: 80%;
 	top: -64px;
@@ -63,19 +67,17 @@ pre {
     font-size: 30px;
 }
 .center {
+  color: darkorange;
 	background: white;
 	position: fixed;
     top: 118px;
     left: 0px;
     text-align: center;
-    border: 10px solid darkorange;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
+    border-bottom: 4px solid darkorange;
+    width: 100%;
     border-top: transparent;
     padding: 2px 7px 2px 7px;
     z-index: 999;
-    width: 970px;
-    height: 70px;
     font-size: 60px;
 }
 .btnGallery:hover {
@@ -122,7 +124,7 @@ pre {
 	position: absolute;
 	width: 85%;
 	top: 330px;
-    left: 6%;
+  left: 6%;
 }
 #labelAutobiography {
 	color: white;
@@ -161,62 +163,11 @@ pre {
 #nickname {
 	font-size: 58px;
 }
-#telegram {
-	padding: 2px 15px 2px 15px;
-	background-image: url(telegram.png);
-	color: white;
-	text-decoration: none;
-	display: inline-block;
-	position: absolute;
-  	top: 4550px;
-  	left: 20%;
-    font-size: 57px;
- 	border-radius: 20px;
- 	border: 1px solid white;
-}
-#telegram:visited {
-	padding: 2px 15px 3px 15px;
-	background-image: url(telegram.png);
-	color: white;
-	text-decoration: none;
-	display: inline-block;
-	position: absolute;
-  	top: 4550px;
-    font-size: 57px;
- 	border-radius: 20px;
- 	border: 1px solid white;
-}
-#instagram {
-	padding: 2px 12px 2px 12px;
-	background-image: url(instagram.png);
-	color: white;
-	text-decoration: none;
-	display: inline-block;
-	position: absolute;
-  	top: 4550px;
-    font-size: 56.8px;
-    left: 56%;
- 	border-radius: 20px;
- 	border: 1px solid white;
-}
-#instagram:visited {
-	padding: 2px 12px 2px 12px;
-	background-image: url(instagram.png);
-	color: white;
-	text-decoration: none;
-	display: inline-block;
-	position: absolute;
-  	top: 4550px;
-    font-size: 56.8px;
- 	border-radius: 20px;
- 	border: 1px solid white;
-}
 #corp {
 	position: absolute;
-  	top: 4570px;
-  	left: 25.5%;
     font-size: 60px;
-    width: 490px;
+    width: 100%;
+    text-align: center;
 }
 #boysboys {
 	color: black;
