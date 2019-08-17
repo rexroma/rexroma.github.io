@@ -123,7 +123,6 @@ pre {
 	width: 85%;
 	top: 330px;
     left: 6%;
-    border: 15px ridge gold;
 }
 #labelAutobiography {
 	color: white;
@@ -242,26 +241,6 @@ pre {
 .mainImg {
     background-attachment: fixed;
 }
-body {
-  /* Image is centered vertically and horizontally at all times */
-  background-position: top center;
-  
-  /* Image doesn't repeat */
-  background-repeat: no-repeat;
-  
-  /* Makes the image fixed in the viewport so that it doesn't move when 
-     the content height is greater than the image height */
-  background-attachment: fixed;
-  
-  /* This is what makes the background image rescale based on its container's size */
-  background-size: cover;
-  
-  /* Pick a solid background color that will be displayed while the background image is loading */
-  background-color:#464646;
-  /* SHORTHAND CSS NOTATION
-   * background: url(background-photo.jpg) center center cover no-repeat fixed;
-   */
-}  
 
 
 
