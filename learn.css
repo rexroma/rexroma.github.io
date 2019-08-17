@@ -44,7 +44,7 @@ pre {
 	background: white;
 	position: fixed;
     top: 23px;
-    left: 41%;
+    left: 41.5%;
     border: 5px solid darkorange;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -109,8 +109,7 @@ pre {
 	position: absolute;
 	width: 25%;
 	top: 130px;
-    left: 473px;
-    border: 5px ridge gold;
+    left: 485px;
 }
 #labelAutobiography {
 	color: white;
@@ -261,38 +260,9 @@ z-index: 999;
 .mainImg {
     background-attachment: fixed;
 }
-body {
-  /* Location of the image */
-  background-image: url(background.png);
-  
-  /* Image is centered vertically and horizontally at all times */
-  background-position: center center;
-  
-  /* Image doesn't repeat */
-  background-repeat: no-repeat;
-  
-  /* Makes the image fixed in the viewport so that it doesn't move when 
-     the content height is greater than the image height */
-  background-attachment: fixed;
-  
-  /* This is what makes the background image rescale based on its container's size */
-  background-size: cover;
-  
-  /* Pick a solid background color that will be displayed while the background image is loading */
-  background-color:#464646;
-  /* SHORTHAND CSS NOTATION
-   * background: url(background-photo.jpg) center center cover no-repeat fixed;
-   */
-}
 
 /* For mobile devices */
-@media only screen and (max-width: 767px) {
-  body {
-    /* The file size of this background image is 93% smaller
-     * to improve page load speed on mobile internet connections */
-    background-image: url(background_mobile.png);
-  }
-	}
+
 @media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
 @media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
 @media screen and (max-width: 992px) { div.contentblock {width: 970px;} }
@@ -314,11 +284,6 @@ body {
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 1024px) {
-	body {
-    /* The file size of this background image is 93% smaller
-     * to improve page load speed on mobile internet connections */
-    background-image: url(background_mobile.png);
-  }
 	.center {
 		left: 36.5%;
 	}
