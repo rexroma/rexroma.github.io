@@ -158,7 +158,6 @@ pre {
 	position: fixed;
  	border-radius: 20px;
  	border: 1px solid darkorange;
- 	margin-right: 100px;
  	bottom: 2px;
  	right: 2px;
 }
@@ -170,7 +169,6 @@ pre {
 	position: fixed;
  	border-radius: 20px;
  	border: 1px solid darkorange;
- 	margin-right: 100px;
  	bottom: 2px;
  	right: 2px;
 }
@@ -182,7 +180,6 @@ pre {
 	position: fixed;
  	border-radius: 20px;
  	border: 1px solid darkorange;
- 	margin-left: 100px;
  	bottom: 2px;
  	left: 2px;
 }
@@ -194,7 +191,6 @@ pre {
 	position: fixed;
  	border-radius: 20px;
  	border: 1px solid darkorange;
- 	margin-left: 100px;
  	bottom: 2px;
  	left: 2px;
 }
