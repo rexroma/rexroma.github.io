@@ -150,28 +150,6 @@ pre {
 #nickname {
 	font-size: 20px;
 }
-#telegram {
-	padding: 2px 8px 2px 8px;
-	color: darkorange;
-	text-decoration: none;
-	display: inline-block;
-	position: fixed;
- 	border-radius: 20px;
- 	border: 1px solid darkorange;
- 	bottom: 2px;
- 	right: 2px;
-}
-#telegram:visited {
-	padding: 2px 8px 3px 2px;
-	color: darkorange;
-	text-decoration: none;
-	display: inline-block;
-	position: fixed;
- 	border-radius: 20px;
- 	border: 1px solid darkorange;
- 	bottom: 2px;
- 	right: 2px;
-}
 #instagram {
 	padding: 2px 8px 2px 8px;
 	color: darkorange;
@@ -308,16 +286,6 @@ z-index: 999;
 #btnGallery {
     right: 45%;
     top: 460px;
-}
-#telegram {
-	position: fixed;
-  	left: 39%;
- 	top: 510px;
-}
-#telegram:visited {
-	position: fixed;
-  	left: 39%;
-	top: 510px;
 }
 #instagram {
 	position: fixed;
