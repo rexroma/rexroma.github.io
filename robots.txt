@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://ronnielytvyn.ga/sitemap.xml
+Allow: /sitemap.htm
+Sitemap: http://ronnielytvyn.ga/sitemap.xml
